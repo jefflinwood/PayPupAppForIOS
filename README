@@ -1,0 +1,11 @@
+PayPup App for iOS!
+
+You'll need to add:
+
+* Windows Azure Mobile Client Services for iOS SDK
+* PayPal iOS SDK
+
+Also, use your PayPal client id and email address
+Use your Windows Azure client token
+
+
